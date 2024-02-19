@@ -1,0 +1,528 @@
+/Users/a1234/Documents/Development/C#/VP/Лекции/Лекция 3/Lecture_3/bin/Debug/net8.0/DataBindingExample
+/Users/a1234/Documents/Development/C#/VP/Лекции/Лекция 3/Lecture_3/bin/Debug/net8.0/DataBindingExample.deps.json
+/Users/a1234/Documents/Development/C#/VP/Лекции/Лекция 3/Lecture_3/bin/Debug/net8.0/DataBindingExample.runtimeconfig.json
+/Users/a1234/Documents/Development/C#/VP/Лекции/Лекция 3/Lecture_3/bin/Debug/net8.0/DataBindingExample.dll
+/Users/a1234/Documents/Development/C#/VP/Лекции/Лекция 3/Lecture_3/bin/Debug/net8.0/DataBindingExample.pdb
+/Users/a1234/Documents/Development/C#/VP/Лекции/Лекция 3/Lecture_3/bin/Debug/net8.0/Avalonia.Base.dll
+/Users/a1234/Documents/Development/C#/VP/Лекции/Лекция 3/Lecture_3/bin/Debug/net8.0/Avalonia.Controls.dll
+/Users/a1234/Documents/Development/C#/VP/Лекции/Лекция 3/Lecture_3/bin/Debug/net8.0/Avalonia.DesignerSupport.dll
+/Users/a1234/Documents/Development/C#/VP/Лекции/Лекция 3/Lecture_3/bin/Debug/net8.0/Avalonia.Dialogs.dll
+/Users/a1234/Documents/Development/C#/VP/Лекции/Лекция 3/Lecture_3/bin/Debug/net8.0/Avalonia.Markup.Xaml.dll
+/Users/a1234/Documents/Development/C#/VP/Лекции/Лекция 3/Lecture_3/bin/Debug/net8.0/Avalonia.Markup.dll
+/Users/a1234/Documents/Development/C#/VP/Лекции/Лекция 3/Lecture_3/bin/Debug/net8.0/Avalonia.Metal.dll
+/Users/a1234/Documents/Development/C#/VP/Лекции/Лекция 3/Lecture_3/bin/Debug/net8.0/Avalonia.MicroCom.dll
+/Users/a1234/Documents/Development/C#/VP/Лекции/Лекция 3/Lecture_3/bin/Debug/net8.0/Avalonia.OpenGL.dll
+/Users/a1234/Documents/Development/C#/VP/Лекции/Лекция 3/Lecture_3/bin/Debug/net8.0/Avalonia.dll
+/Users/a1234/Documents/Development/C#/VP/Лекции/Лекция 3/Lecture_3/bin/Debug/net8.0/Avalonia.Controls.ColorPicker.dll
+/Users/a1234/Documents/Development/C#/VP/Лекции/Лекция 3/Lecture_3/bin/Debug/net8.0/Avalonia.Controls.DataGrid.dll
+/Users/a1234/Documents/Development/C#/VP/Лекции/Лекция 3/Lecture_3/bin/Debug/net8.0/Avalonia.Desktop.dll
+/Users/a1234/Documents/Development/C#/VP/Лекции/Лекция 3/Lecture_3/bin/Debug/net8.0/Avalonia.Diagnostics.dll
+/Users/a1234/Documents/Development/C#/VP/Лекции/Лекция 3/Lecture_3/bin/Debug/net8.0/Avalonia.Fonts.Inter.dll
+/Users/a1234/Documents/Development/C#/VP/Лекции/Лекция 3/Lecture_3/bin/Debug/net8.0/Avalonia.FreeDesktop.dll
+/Users/a1234/Documents/Development/C#/VP/Лекции/Лекция 3/Lecture_3/bin/Debug/net8.0/Avalonia.Native.dll
+/Users/a1234/Documents/Development/C#/VP/Лекции/Лекция 3/Lecture_3/bin/Debug/net8.0/Avalonia.Remote.Protocol.dll
+/Users/a1234/Documents/Development/C#/VP/Лекции/Лекция 3/Lecture_3/bin/Debug/net8.0/Avalonia.Skia.dll
+/Users/a1234/Documents/Development/C#/VP/Лекции/Лекция 3/Lecture_3/bin/Debug/net8.0/Avalonia.Themes.Fluent.dll
+/Users/a1234/Documents/Development/C#/VP/Лекции/Лекция 3/Lecture_3/bin/Debug/net8.0/Avalonia.Themes.Simple.dll
+/Users/a1234/Documents/Development/C#/VP/Лекции/Лекция 3/Lecture_3/bin/Debug/net8.0/Avalonia.Win32.dll
+/Users/a1234/Documents/Development/C#/VP/Лекции/Лекция 3/Lecture_3/bin/Debug/net8.0/Avalonia.X11.dll
+/Users/a1234/Documents/Development/C#/VP/Лекции/Лекция 3/Lecture_3/bin/Debug/net8.0/HarfBuzzSharp.dll
+/Users/a1234/Documents/Development/C#/VP/Лекции/Лекция 3/Lecture_3/bin/Debug/net8.0/MicroCom.Runtime.dll
+/Users/a1234/Documents/Development/C#/VP/Лекции/Лекция 3/Lecture_3/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+/Users/a1234/Documents/Development/C#/VP/Лекции/Лекция 3/Lecture_3/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/a1234/Documents/Development/C#/VP/Лекции/Лекция 3/Lecture_3/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Scripting.dll
+/Users/a1234/Documents/Development/C#/VP/Лекции/Лекция 3/Lecture_3/bin/Debug/net8.0/Microsoft.CodeAnalysis.Scripting.dll
+/Users/a1234/Documents/Development/C#/VP/Лекции/Лекция 3/Lecture_3/bin/Debug/net8.0/Microsoft.Win32.SystemEvents.dll
+/Users/a1234/Documents/Development/C#/VP/Лекции/Лекция 3/Lecture_3/bin/Debug/net8.0/SkiaSharp.dll
+/Users/a1234/Documents/Development/C#/VP/Лекции/Лекция 3/Lecture_3/bin/Debug/net8.0/System.Drawing.Common.dll
+/Users/a1234/Documents/Development/C#/VP/Лекции/Лекция 3/Lecture_3/bin/Debug/net8.0/System.IO.Pipelines.dll
+/Users/a1234/Documents/Development/C#/VP/Лекции/Лекция 3/Lecture_3/bin/Debug/net8.0/Tmds.DBus.Protocol.dll
+/Users/a1234/Documents/Development/C#/VP/Лекции/Лекция 3/Lecture_3/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/a1234/Documents/Development/C#/VP/Лекции/Лекция 3/Lecture_3/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+/Users/a1234/Documents/Development/C#/VP/Лекции/Лекция 3/Lecture_3/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+/Users/a1234/Documents/Development/C#/VP/Лекции/Лекция 3/Lecture_3/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/a1234/Documents/Development/C#/VP/Лекции/Лекция 3/Lecture_3/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+/Users/a1234/Documents/Development/C#/VP/Лекции/Лекция 3/Lecture_3/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/a1234/Documents/Development/C#/VP/Лекции/Лекция 3/Lecture_3/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/a1234/Documents/Development/C#/VP/Лекции/Лекция 3/Lecture_3/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/a1234/Documents/Development/C#/VP/Лекции/Лекция 3/Lecture_3/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/a1234/Documents/Development/C#/VP/Лекции/Лекция 3/Lecture_3/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/a1234/Documents/Development/C#/VP/Лекции/Лекция 3/Lecture_3/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/a1234/Documents/Development/C#/VP/Лекции/Лекция 3/Lecture_3/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/a1234/Documents/Development/C#/VP/Лекции/Лекция 3/Lecture_3/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/a1234/Documents/Development/C#/VP/Лекции/Лекция 3/Lecture_3/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/a1234/Documents/Development/C#/VP/Лекции/Лекция 3/Lecture_3/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/a1234/Documents/Development/C#/VP/Лекции/Лекция 3/Lecture_3/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/a1234/Documents/Development/C#/VP/Лекции/Лекция 3/Lecture_3/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/a1234/Documents/Development/C#/VP/Лекции/Лекция 3/Lecture_3/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/a1234/Documents/Development/C#/VP/Лекции/Лекция 3/Lecture_3/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/a1234/Documents/Development/C#/VP/Лекции/Лекция 3/Lecture_3/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/a1234/Documents/Development/C#/VP/Лекции/Лекция 3/Lecture_3/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/a1234/Documents/Development/C#/VP/Лекции/Лекция 3/Lecture_3/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/a1234/Documents/Development/C#/VP/Лекции/Лекция 3/Lecture_3/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/a1234/Documents/Development/C#/VP/Лекции/Лекция 3/Lecture_3/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/a1234/Documents/Development/C#/VP/Лекции/Лекция 3/Lecture_3/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/a1234/Documents/Development/C#/VP/Лекции/Лекция 3/Lecture_3/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/a1234/Documents/Development/C#/VP/Лекции/Лекция 3/Lecture_3/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/a1234/Documents/Development/C#/VP/Лекции/Лекция 3/Lecture_3/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/a1234/Documents/Development/C#/VP/Лекции/Лекция 3/Lecture_3/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/a1234/Documents/Development/C#/VP/Лекции/Лекция 3/Lecture_3/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/a1234/Documents/Development/C#/VP/Лекции/Лекция 3/Lecture_3/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/a1234/Documents/Development/C#/VP/Лекции/Лекция 3/Lecture_3/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/a1234/Documents/Development/C#/VP/Лекции/Лекция 3/Lecture_3/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/a1234/Documents/Development/C#/VP/Лекции/Лекция 3/Lecture_3/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/a1234/Documents/Development/C#/VP/Лекции/Лекция 3/Lecture_3/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/a1234/Documents/Development/C#/VP/Лекции/Лекция 3/Lecture_3/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/a1234/Documents/Development/C#/VP/Лекции/Лекция 3/Lecture_3/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/a1234/Documents/Development/C#/VP/Лекции/Лекция 3/Lecture_3/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/a1234/Documents/Development/C#/VP/Лекции/Лекция 3/Lecture_3/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/a1234/Documents/Development/C#/VP/Лекции/Лекция 3/Lecture_3/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/a1234/Documents/Development/C#/VP/Лекции/Лекция 3/Lecture_3/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/a1234/Documents/Development/C#/VP/Лекции/Лекция 3/Lecture_3/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/a1234/Documents/Development/C#/VP/Лекции/Лекция 3/Lecture_3/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/a1234/Documents/Development/C#/VP/Лекции/Лекция 3/Lecture_3/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/a1234/Documents/Development/C#/VP/Лекции/Лекция 3/Lecture_3/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/a1234/Documents/Development/C#/VP/Лекции/Лекция 3/Lecture_3/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/a1234/Documents/Development/C#/VP/Лекции/Лекция 3/Lecture_3/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/a1234/Documents/Development/C#/VP/Лекции/Лекция 3/Lecture_3/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/a1234/Documents/Development/C#/VP/Лекции/Лекция 3/Lecture_3/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/a1234/Documents/Development/C#/VP/Лекции/Лекция 3/Lecture_3/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/a1234/Documents/Development/C#/VP/Лекции/Лекция 3/Lecture_3/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/a1234/Documents/Development/C#/VP/Лекции/Лекция 3/Lecture_3/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/a1234/Documents/Development/C#/VP/Лекции/Лекция 3/Lecture_3/bin/Debug/net8.0/runtimes/win-arm64/native/av_libglesv2.dll
+/Users/a1234/Documents/Development/C#/VP/Лекции/Лекция 3/Lecture_3/bin/Debug/net8.0/runtimes/win-x64/native/av_libglesv2.dll
+/Users/a1234/Documents/Development/C#/VP/Лекции/Лекция 3/Lecture_3/bin/Debug/net8.0/runtimes/win-x86/native/av_libglesv2.dll
+/Users/a1234/Documents/Development/C#/VP/Лекции/Лекция 3/Lecture_3/bin/Debug/net8.0/runtimes/osx/native/libAvaloniaNative.dylib
+/Users/a1234/Documents/Development/C#/VP/Лекции/Лекция 3/Lecture_3/bin/Debug/net8.0/runtimes/linux-arm/native/libHarfBuzzSharp.so
+/Users/a1234/Documents/Development/C#/VP/Лекции/Лекция 3/Lecture_3/bin/Debug/net8.0/runtimes/linux-arm64/native/libHarfBuzzSharp.so
+/Users/a1234/Documents/Development/C#/VP/Лекции/Лекция 3/Lecture_3/bin/Debug/net8.0/runtimes/linux-musl-x64/native/libHarfBuzzSharp.so
+/Users/a1234/Documents/Development/C#/VP/Лекции/Лекция 3/Lecture_3/bin/Debug/net8.0/runtimes/linux-x64/native/libHarfBuzzSharp.so
+/Users/a1234/Documents/Development/C#/VP/Лекции/Лекция 3/Lecture_3/bin/Debug/net8.0/runtimes/osx/native/libHarfBuzzSharp.dylib
+/Users/a1234/Documents/Development/C#/VP/Лекции/Лекция 3/Lecture_3/bin/Debug/net8.0/runtimes/win-arm64/native/libHarfBuzzSharp.dll
+/Users/a1234/Documents/Development/C#/VP/Лекции/Лекция 3/Lecture_3/bin/Debug/net8.0/runtimes/win-x64/native/libHarfBuzzSharp.dll
+/Users/a1234/Documents/Development/C#/VP/Лекции/Лекция 3/Lecture_3/bin/Debug/net8.0/runtimes/win-x86/native/libHarfBuzzSharp.dll
+/Users/a1234/Documents/Development/C#/VP/Лекции/Лекция 3/Lecture_3/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/a1234/Documents/Development/C#/VP/Лекции/Лекция 3/Lecture_3/bin/Debug/net8.0/runtimes/linux-arm/native/libSkiaSharp.so
+/Users/a1234/Documents/Development/C#/VP/Лекции/Лекция 3/Lecture_3/bin/Debug/net8.0/runtimes/linux-arm64/native/libSkiaSharp.so
+/Users/a1234/Documents/Development/C#/VP/Лекции/Лекция 3/Lecture_3/bin/Debug/net8.0/runtimes/linux-musl-x64/native/libSkiaSharp.so
+/Users/a1234/Documents/Development/C#/VP/Лекции/Лекция 3/Lecture_3/bin/Debug/net8.0/runtimes/linux-x64/native/libSkiaSharp.so
+/Users/a1234/Documents/Development/C#/VP/Лекции/Лекция 3/Lecture_3/bin/Debug/net8.0/runtimes/osx/native/libSkiaSharp.dylib
+/Users/a1234/Documents/Development/C#/VP/Лекции/Лекция 3/Lecture_3/bin/Debug/net8.0/runtimes/win-arm64/native/libSkiaSharp.dll
+/Users/a1234/Documents/Development/C#/VP/Лекции/Лекция 3/Lecture_3/bin/Debug/net8.0/runtimes/win-x64/native/libSkiaSharp.dll
+/Users/a1234/Documents/Development/C#/VP/Лекции/Лекция 3/Lecture_3/bin/Debug/net8.0/runtimes/win-x86/native/libSkiaSharp.dll
+/Users/a1234/Documents/Development/C#/VP/Лекции/Лекция 3/Lecture_3/bin/Debug/net8.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/Users/a1234/Documents/Development/C#/VP/Лекции/Лекция 3/Lecture_3/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/Users/a1234/Documents/Development/C#/VP/Лекции/Лекция 3/Lecture_3/obj/Debug/net8.0/DataBindingExample.csproj.AssemblyReference.cache
+/Users/a1234/Documents/Development/C#/VP/Лекции/Лекция 3/Lecture_3/obj/Debug/net8.0/Avalonia/Resources.Inputs.cache
+/Users/a1234/Documents/Development/C#/VP/Лекции/Лекция 3/Lecture_3/obj/Debug/net8.0/Avalonia/resources
+/Users/a1234/Documents/Development/C#/VP/Лекции/Лекция 3/Lecture_3/obj/Debug/net8.0/DataBindingExample.GeneratedMSBuildEditorConfig.editorconfig
+/Users/a1234/Documents/Development/C#/VP/Лекции/Лекция 3/Lecture_3/obj/Debug/net8.0/DataBindingExample.AssemblyInfoInputs.cache
+/Users/a1234/Documents/Development/C#/VP/Лекции/Лекция 3/Lecture_3/obj/Debug/net8.0/DataBindingExample.AssemblyInfo.cs
+/Users/a1234/Documents/Development/C#/VP/Лекции/Лекция 3/Lecture_3/obj/Debug/net8.0/DataBindingExample.csproj.CoreCompileInputs.cache
+/Users/a1234/Documents/Development/C#/VP/Лекции/Лекция 3/Lecture_3/obj/Debug/net8.0/DataBindingExample.sourcelink.json
+/Users/a1234/Documents/Development/C#/VP/Лекции/Лекция 3/Lecture_3/obj/Debug/net8.0/Avalonia/references
+/Users/a1234/Documents/Development/C#/VP/Лекции/Лекция 3/Lecture_3/obj/Debug/net8.0/Avalonia/original.dll
+/Users/a1234/Documents/Development/C#/VP/Лекции/Лекция 3/Lecture_3/obj/Debug/net8.0/Avalonia/original.pdb
+/Users/a1234/Documents/Development/C#/VP/Лекции/Лекция 3/Lecture_3/obj/Debug/net8.0/Avalonia/original.ref.dll
+/Users/a1234/Documents/Development/C#/VP/Лекции/Лекция 3/Lecture_3/obj/Debug/net8.0/refint/DataBindingExample.dll
+/Users/a1234/Documents/Development/C#/VP/Лекции/Лекция 3/Lecture_3/obj/Debug/net8.0/DataBindingExample.dll
+/Users/a1234/Documents/Development/C#/VP/Лекции/Лекция 3/Lecture_3/obj/Debug/net8.0/DataBindingExample.pdb
+/Users/a1234/Documents/Development/C#/VP/Лекции/Лекция 3/Lecture_3/obj/Debug/net8.0/DataBindingExample.csproj.CopyComplete
+/Users/a1234/Documents/Development/C#/VP/Лекции/Лекция 3/Lecture_3/obj/Debug/net8.0/DataBindingExample.genruntimeconfig.cache
+/Users/a1234/Documents/Development/C#/VP/Лекции/Лекция 3/Lecture_3/obj/Debug/net8.0/ref/DataBindingExample.dll
+/Users/a1234/Documents/Development/C#/Lecture_3/obj/Debug/net8.0/DataBindingExample.csproj.AssemblyReference.cache
+/Users/a1234/Documents/Development/C#/Lecture_3/obj/Debug/net8.0/Avalonia/Resources.Inputs.cache
+/Users/a1234/Documents/Development/C#/Lecture_3/obj/Debug/net8.0/DataBindingExample.dll
+/Users/a1234/Documents/Development/C#/Lecture_3/obj/Debug/net8.0/refint/DataBindingExample.dll
+/Users/a1234/Documents/Development/C#/Lecture_3/obj/Debug/net8.0/DataBindingExample.pdb
+/Users/a1234/Documents/Development/C#/Lecture_3/bin/Debug/net8.0/DataBindingExample
+/Users/a1234/Documents/Development/C#/Lecture_3/bin/Debug/net8.0/DataBindingExample.deps.json
+/Users/a1234/Documents/Development/C#/Lecture_3/bin/Debug/net8.0/DataBindingExample.runtimeconfig.json
+/Users/a1234/Documents/Development/C#/Lecture_3/bin/Debug/net8.0/DataBindingExample.dll
+/Users/a1234/Documents/Development/C#/Lecture_3/bin/Debug/net8.0/DataBindingExample.pdb
+/Users/a1234/Documents/Development/C#/Lecture_3/bin/Debug/net8.0/Avalonia.Base.dll
+/Users/a1234/Documents/Development/C#/Lecture_3/bin/Debug/net8.0/Avalonia.Controls.dll
+/Users/a1234/Documents/Development/C#/Lecture_3/bin/Debug/net8.0/Avalonia.DesignerSupport.dll
+/Users/a1234/Documents/Development/C#/Lecture_3/bin/Debug/net8.0/Avalonia.Dialogs.dll
+/Users/a1234/Documents/Development/C#/Lecture_3/bin/Debug/net8.0/Avalonia.Markup.Xaml.dll
+/Users/a1234/Documents/Development/C#/Lecture_3/bin/Debug/net8.0/Avalonia.Markup.dll
+/Users/a1234/Documents/Development/C#/Lecture_3/bin/Debug/net8.0/Avalonia.Metal.dll
+/Users/a1234/Documents/Development/C#/Lecture_3/bin/Debug/net8.0/Avalonia.MicroCom.dll
+/Users/a1234/Documents/Development/C#/Lecture_3/bin/Debug/net8.0/Avalonia.OpenGL.dll
+/Users/a1234/Documents/Development/C#/Lecture_3/bin/Debug/net8.0/Avalonia.dll
+/Users/a1234/Documents/Development/C#/Lecture_3/bin/Debug/net8.0/Avalonia.Controls.ColorPicker.dll
+/Users/a1234/Documents/Development/C#/Lecture_3/bin/Debug/net8.0/Avalonia.Controls.DataGrid.dll
+/Users/a1234/Documents/Development/C#/Lecture_3/bin/Debug/net8.0/Avalonia.Desktop.dll
+/Users/a1234/Documents/Development/C#/Lecture_3/bin/Debug/net8.0/Avalonia.Diagnostics.dll
+/Users/a1234/Documents/Development/C#/Lecture_3/bin/Debug/net8.0/Avalonia.Fonts.Inter.dll
+/Users/a1234/Documents/Development/C#/Lecture_3/bin/Debug/net8.0/Avalonia.FreeDesktop.dll
+/Users/a1234/Documents/Development/C#/Lecture_3/bin/Debug/net8.0/Avalonia.Native.dll
+/Users/a1234/Documents/Development/C#/Lecture_3/bin/Debug/net8.0/Avalonia.Remote.Protocol.dll
+/Users/a1234/Documents/Development/C#/Lecture_3/bin/Debug/net8.0/Avalonia.Skia.dll
+/Users/a1234/Documents/Development/C#/Lecture_3/bin/Debug/net8.0/Avalonia.Themes.Fluent.dll
+/Users/a1234/Documents/Development/C#/Lecture_3/bin/Debug/net8.0/Avalonia.Themes.Simple.dll
+/Users/a1234/Documents/Development/C#/Lecture_3/bin/Debug/net8.0/Avalonia.Win32.dll
+/Users/a1234/Documents/Development/C#/Lecture_3/bin/Debug/net8.0/Avalonia.X11.dll
+/Users/a1234/Documents/Development/C#/Lecture_3/bin/Debug/net8.0/HarfBuzzSharp.dll
+/Users/a1234/Documents/Development/C#/Lecture_3/bin/Debug/net8.0/MicroCom.Runtime.dll
+/Users/a1234/Documents/Development/C#/Lecture_3/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+/Users/a1234/Documents/Development/C#/Lecture_3/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/a1234/Documents/Development/C#/Lecture_3/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Scripting.dll
+/Users/a1234/Documents/Development/C#/Lecture_3/bin/Debug/net8.0/Microsoft.CodeAnalysis.Scripting.dll
+/Users/a1234/Documents/Development/C#/Lecture_3/bin/Debug/net8.0/Microsoft.Win32.SystemEvents.dll
+/Users/a1234/Documents/Development/C#/Lecture_3/bin/Debug/net8.0/SkiaSharp.dll
+/Users/a1234/Documents/Development/C#/Lecture_3/bin/Debug/net8.0/System.Drawing.Common.dll
+/Users/a1234/Documents/Development/C#/Lecture_3/bin/Debug/net8.0/System.IO.Pipelines.dll
+/Users/a1234/Documents/Development/C#/Lecture_3/bin/Debug/net8.0/Tmds.DBus.Protocol.dll
+/Users/a1234/Documents/Development/C#/Lecture_3/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/a1234/Documents/Development/C#/Lecture_3/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+/Users/a1234/Documents/Development/C#/Lecture_3/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+/Users/a1234/Documents/Development/C#/Lecture_3/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/a1234/Documents/Development/C#/Lecture_3/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+/Users/a1234/Documents/Development/C#/Lecture_3/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/a1234/Documents/Development/C#/Lecture_3/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/a1234/Documents/Development/C#/Lecture_3/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/a1234/Documents/Development/C#/Lecture_3/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/a1234/Documents/Development/C#/Lecture_3/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/a1234/Documents/Development/C#/Lecture_3/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/a1234/Documents/Development/C#/Lecture_3/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/a1234/Documents/Development/C#/Lecture_3/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/a1234/Documents/Development/C#/Lecture_3/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/a1234/Documents/Development/C#/Lecture_3/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/a1234/Documents/Development/C#/Lecture_3/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/a1234/Documents/Development/C#/Lecture_3/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/a1234/Documents/Development/C#/Lecture_3/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/a1234/Documents/Development/C#/Lecture_3/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/a1234/Documents/Development/C#/Lecture_3/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/a1234/Documents/Development/C#/Lecture_3/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/a1234/Documents/Development/C#/Lecture_3/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/a1234/Documents/Development/C#/Lecture_3/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/a1234/Documents/Development/C#/Lecture_3/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/a1234/Documents/Development/C#/Lecture_3/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/a1234/Documents/Development/C#/Lecture_3/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/a1234/Documents/Development/C#/Lecture_3/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/a1234/Documents/Development/C#/Lecture_3/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/a1234/Documents/Development/C#/Lecture_3/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/a1234/Documents/Development/C#/Lecture_3/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/a1234/Documents/Development/C#/Lecture_3/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/a1234/Documents/Development/C#/Lecture_3/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/a1234/Documents/Development/C#/Lecture_3/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/a1234/Documents/Development/C#/Lecture_3/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/a1234/Documents/Development/C#/Lecture_3/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/a1234/Documents/Development/C#/Lecture_3/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/a1234/Documents/Development/C#/Lecture_3/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/a1234/Documents/Development/C#/Lecture_3/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/a1234/Documents/Development/C#/Lecture_3/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/a1234/Documents/Development/C#/Lecture_3/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/a1234/Documents/Development/C#/Lecture_3/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/a1234/Documents/Development/C#/Lecture_3/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/a1234/Documents/Development/C#/Lecture_3/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/a1234/Documents/Development/C#/Lecture_3/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/a1234/Documents/Development/C#/Lecture_3/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/a1234/Documents/Development/C#/Lecture_3/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/a1234/Documents/Development/C#/Lecture_3/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/a1234/Documents/Development/C#/Lecture_3/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/a1234/Documents/Development/C#/Lecture_3/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/a1234/Documents/Development/C#/Lecture_3/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/a1234/Documents/Development/C#/Lecture_3/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/a1234/Documents/Development/C#/Lecture_3/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/a1234/Documents/Development/C#/Lecture_3/bin/Debug/net8.0/runtimes/win-arm64/native/av_libglesv2.dll
+/Users/a1234/Documents/Development/C#/Lecture_3/bin/Debug/net8.0/runtimes/win-x64/native/av_libglesv2.dll
+/Users/a1234/Documents/Development/C#/Lecture_3/bin/Debug/net8.0/runtimes/win-x86/native/av_libglesv2.dll
+/Users/a1234/Documents/Development/C#/Lecture_3/bin/Debug/net8.0/runtimes/osx/native/libAvaloniaNative.dylib
+/Users/a1234/Documents/Development/C#/Lecture_3/bin/Debug/net8.0/runtimes/linux-arm/native/libHarfBuzzSharp.so
+/Users/a1234/Documents/Development/C#/Lecture_3/bin/Debug/net8.0/runtimes/linux-arm64/native/libHarfBuzzSharp.so
+/Users/a1234/Documents/Development/C#/Lecture_3/bin/Debug/net8.0/runtimes/linux-musl-x64/native/libHarfBuzzSharp.so
+/Users/a1234/Documents/Development/C#/Lecture_3/bin/Debug/net8.0/runtimes/linux-x64/native/libHarfBuzzSharp.so
+/Users/a1234/Documents/Development/C#/Lecture_3/bin/Debug/net8.0/runtimes/osx/native/libHarfBuzzSharp.dylib
+/Users/a1234/Documents/Development/C#/Lecture_3/bin/Debug/net8.0/runtimes/win-arm64/native/libHarfBuzzSharp.dll
+/Users/a1234/Documents/Development/C#/Lecture_3/bin/Debug/net8.0/runtimes/win-x64/native/libHarfBuzzSharp.dll
+/Users/a1234/Documents/Development/C#/Lecture_3/bin/Debug/net8.0/runtimes/win-x86/native/libHarfBuzzSharp.dll
+/Users/a1234/Documents/Development/C#/Lecture_3/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/a1234/Documents/Development/C#/Lecture_3/bin/Debug/net8.0/runtimes/linux-arm/native/libSkiaSharp.so
+/Users/a1234/Documents/Development/C#/Lecture_3/bin/Debug/net8.0/runtimes/linux-arm64/native/libSkiaSharp.so
+/Users/a1234/Documents/Development/C#/Lecture_3/bin/Debug/net8.0/runtimes/linux-musl-x64/native/libSkiaSharp.so
+/Users/a1234/Documents/Development/C#/Lecture_3/bin/Debug/net8.0/runtimes/linux-x64/native/libSkiaSharp.so
+/Users/a1234/Documents/Development/C#/Lecture_3/bin/Debug/net8.0/runtimes/osx/native/libSkiaSharp.dylib
+/Users/a1234/Documents/Development/C#/Lecture_3/bin/Debug/net8.0/runtimes/win-arm64/native/libSkiaSharp.dll
+/Users/a1234/Documents/Development/C#/Lecture_3/bin/Debug/net8.0/runtimes/win-x64/native/libSkiaSharp.dll
+/Users/a1234/Documents/Development/C#/Lecture_3/bin/Debug/net8.0/runtimes/win-x86/native/libSkiaSharp.dll
+/Users/a1234/Documents/Development/C#/Lecture_3/bin/Debug/net8.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/Users/a1234/Documents/Development/C#/Lecture_3/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/Users/a1234/Documents/Development/C#/Lecture_3/obj/Debug/net8.0/Avalonia/resources
+/Users/a1234/Documents/Development/C#/Lecture_3/obj/Debug/net8.0/DataBindingExample.GeneratedMSBuildEditorConfig.editorconfig
+/Users/a1234/Documents/Development/C#/Lecture_3/obj/Debug/net8.0/DataBindingExample.AssemblyInfoInputs.cache
+/Users/a1234/Documents/Development/C#/Lecture_3/obj/Debug/net8.0/DataBindingExample.AssemblyInfo.cs
+/Users/a1234/Documents/Development/C#/Lecture_3/obj/Debug/net8.0/DataBindingExample.csproj.CoreCompileInputs.cache
+/Users/a1234/Documents/Development/C#/Lecture_3/obj/Debug/net8.0/DataBindingExample.sourcelink.json
+/Users/a1234/Documents/Development/C#/Lecture_3/obj/Debug/net8.0/Avalonia/references
+/Users/a1234/Documents/Development/C#/Lecture_3/obj/Debug/net8.0/Avalonia/original.dll
+/Users/a1234/Documents/Development/C#/Lecture_3/obj/Debug/net8.0/Avalonia/original.pdb
+/Users/a1234/Documents/Development/C#/Lecture_3/obj/Debug/net8.0/Avalonia/original.ref.dll
+/Users/a1234/Documents/Development/C#/Lecture_3/obj/Debug/net8.0/DataBindingExample.csproj.CopyComplete
+/Users/a1234/Documents/Development/C#/Lecture_3/obj/Debug/net8.0/DataBindingExample.genruntimeconfig.cache
+/Users/a1234/Documents/Development/C#/Lecture_3/obj/Debug/net8.0/ref/DataBindingExample.dll
+/Users/a1234/Documents/Development/C#/lab2/bin/Debug/net8.0/DataBindingExample
+/Users/a1234/Documents/Development/C#/lab2/bin/Debug/net8.0/DataBindingExample.deps.json
+/Users/a1234/Documents/Development/C#/lab2/bin/Debug/net8.0/DataBindingExample.runtimeconfig.json
+/Users/a1234/Documents/Development/C#/lab2/bin/Debug/net8.0/DataBindingExample.dll
+/Users/a1234/Documents/Development/C#/lab2/bin/Debug/net8.0/DataBindingExample.pdb
+/Users/a1234/Documents/Development/C#/lab2/bin/Debug/net8.0/Avalonia.Base.dll
+/Users/a1234/Documents/Development/C#/lab2/bin/Debug/net8.0/Avalonia.Controls.dll
+/Users/a1234/Documents/Development/C#/lab2/bin/Debug/net8.0/Avalonia.DesignerSupport.dll
+/Users/a1234/Documents/Development/C#/lab2/bin/Debug/net8.0/Avalonia.Dialogs.dll
+/Users/a1234/Documents/Development/C#/lab2/bin/Debug/net8.0/Avalonia.Markup.Xaml.dll
+/Users/a1234/Documents/Development/C#/lab2/bin/Debug/net8.0/Avalonia.Markup.dll
+/Users/a1234/Documents/Development/C#/lab2/bin/Debug/net8.0/Avalonia.Metal.dll
+/Users/a1234/Documents/Development/C#/lab2/bin/Debug/net8.0/Avalonia.MicroCom.dll
+/Users/a1234/Documents/Development/C#/lab2/bin/Debug/net8.0/Avalonia.OpenGL.dll
+/Users/a1234/Documents/Development/C#/lab2/bin/Debug/net8.0/Avalonia.dll
+/Users/a1234/Documents/Development/C#/lab2/bin/Debug/net8.0/Avalonia.Controls.ColorPicker.dll
+/Users/a1234/Documents/Development/C#/lab2/bin/Debug/net8.0/Avalonia.Controls.DataGrid.dll
+/Users/a1234/Documents/Development/C#/lab2/bin/Debug/net8.0/Avalonia.Desktop.dll
+/Users/a1234/Documents/Development/C#/lab2/bin/Debug/net8.0/Avalonia.Diagnostics.dll
+/Users/a1234/Documents/Development/C#/lab2/bin/Debug/net8.0/Avalonia.Fonts.Inter.dll
+/Users/a1234/Documents/Development/C#/lab2/bin/Debug/net8.0/Avalonia.FreeDesktop.dll
+/Users/a1234/Documents/Development/C#/lab2/bin/Debug/net8.0/Avalonia.Native.dll
+/Users/a1234/Documents/Development/C#/lab2/bin/Debug/net8.0/Avalonia.Remote.Protocol.dll
+/Users/a1234/Documents/Development/C#/lab2/bin/Debug/net8.0/Avalonia.Skia.dll
+/Users/a1234/Documents/Development/C#/lab2/bin/Debug/net8.0/Avalonia.Themes.Fluent.dll
+/Users/a1234/Documents/Development/C#/lab2/bin/Debug/net8.0/Avalonia.Themes.Simple.dll
+/Users/a1234/Documents/Development/C#/lab2/bin/Debug/net8.0/Avalonia.Win32.dll
+/Users/a1234/Documents/Development/C#/lab2/bin/Debug/net8.0/Avalonia.X11.dll
+/Users/a1234/Documents/Development/C#/lab2/bin/Debug/net8.0/HarfBuzzSharp.dll
+/Users/a1234/Documents/Development/C#/lab2/bin/Debug/net8.0/MicroCom.Runtime.dll
+/Users/a1234/Documents/Development/C#/lab2/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+/Users/a1234/Documents/Development/C#/lab2/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/a1234/Documents/Development/C#/lab2/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Scripting.dll
+/Users/a1234/Documents/Development/C#/lab2/bin/Debug/net8.0/Microsoft.CodeAnalysis.Scripting.dll
+/Users/a1234/Documents/Development/C#/lab2/bin/Debug/net8.0/Microsoft.Win32.SystemEvents.dll
+/Users/a1234/Documents/Development/C#/lab2/bin/Debug/net8.0/SkiaSharp.dll
+/Users/a1234/Documents/Development/C#/lab2/bin/Debug/net8.0/System.Drawing.Common.dll
+/Users/a1234/Documents/Development/C#/lab2/bin/Debug/net8.0/System.IO.Pipelines.dll
+/Users/a1234/Documents/Development/C#/lab2/bin/Debug/net8.0/Tmds.DBus.Protocol.dll
+/Users/a1234/Documents/Development/C#/lab2/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/a1234/Documents/Development/C#/lab2/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+/Users/a1234/Documents/Development/C#/lab2/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+/Users/a1234/Documents/Development/C#/lab2/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/a1234/Documents/Development/C#/lab2/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+/Users/a1234/Documents/Development/C#/lab2/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/a1234/Documents/Development/C#/lab2/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/a1234/Documents/Development/C#/lab2/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/a1234/Documents/Development/C#/lab2/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/a1234/Documents/Development/C#/lab2/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/a1234/Documents/Development/C#/lab2/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/a1234/Documents/Development/C#/lab2/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/a1234/Documents/Development/C#/lab2/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/a1234/Documents/Development/C#/lab2/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/a1234/Documents/Development/C#/lab2/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/a1234/Documents/Development/C#/lab2/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/a1234/Documents/Development/C#/lab2/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/a1234/Documents/Development/C#/lab2/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/a1234/Documents/Development/C#/lab2/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/a1234/Documents/Development/C#/lab2/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/a1234/Documents/Development/C#/lab2/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/a1234/Documents/Development/C#/lab2/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/a1234/Documents/Development/C#/lab2/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/a1234/Documents/Development/C#/lab2/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/a1234/Documents/Development/C#/lab2/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/a1234/Documents/Development/C#/lab2/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/a1234/Documents/Development/C#/lab2/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/a1234/Documents/Development/C#/lab2/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/a1234/Documents/Development/C#/lab2/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/a1234/Documents/Development/C#/lab2/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/a1234/Documents/Development/C#/lab2/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/a1234/Documents/Development/C#/lab2/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/a1234/Documents/Development/C#/lab2/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/a1234/Documents/Development/C#/lab2/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/a1234/Documents/Development/C#/lab2/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/a1234/Documents/Development/C#/lab2/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/a1234/Documents/Development/C#/lab2/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/a1234/Documents/Development/C#/lab2/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/a1234/Documents/Development/C#/lab2/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/a1234/Documents/Development/C#/lab2/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/a1234/Documents/Development/C#/lab2/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/a1234/Documents/Development/C#/lab2/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/a1234/Documents/Development/C#/lab2/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/a1234/Documents/Development/C#/lab2/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/a1234/Documents/Development/C#/lab2/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/a1234/Documents/Development/C#/lab2/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/a1234/Documents/Development/C#/lab2/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/a1234/Documents/Development/C#/lab2/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/a1234/Documents/Development/C#/lab2/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/a1234/Documents/Development/C#/lab2/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/a1234/Documents/Development/C#/lab2/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/a1234/Documents/Development/C#/lab2/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/a1234/Documents/Development/C#/lab2/bin/Debug/net8.0/runtimes/win-arm64/native/av_libglesv2.dll
+/Users/a1234/Documents/Development/C#/lab2/bin/Debug/net8.0/runtimes/win-x64/native/av_libglesv2.dll
+/Users/a1234/Documents/Development/C#/lab2/bin/Debug/net8.0/runtimes/win-x86/native/av_libglesv2.dll
+/Users/a1234/Documents/Development/C#/lab2/bin/Debug/net8.0/runtimes/osx/native/libAvaloniaNative.dylib
+/Users/a1234/Documents/Development/C#/lab2/bin/Debug/net8.0/runtimes/linux-arm/native/libHarfBuzzSharp.so
+/Users/a1234/Documents/Development/C#/lab2/bin/Debug/net8.0/runtimes/linux-arm64/native/libHarfBuzzSharp.so
+/Users/a1234/Documents/Development/C#/lab2/bin/Debug/net8.0/runtimes/linux-musl-x64/native/libHarfBuzzSharp.so
+/Users/a1234/Documents/Development/C#/lab2/bin/Debug/net8.0/runtimes/linux-x64/native/libHarfBuzzSharp.so
+/Users/a1234/Documents/Development/C#/lab2/bin/Debug/net8.0/runtimes/osx/native/libHarfBuzzSharp.dylib
+/Users/a1234/Documents/Development/C#/lab2/bin/Debug/net8.0/runtimes/win-arm64/native/libHarfBuzzSharp.dll
+/Users/a1234/Documents/Development/C#/lab2/bin/Debug/net8.0/runtimes/win-x64/native/libHarfBuzzSharp.dll
+/Users/a1234/Documents/Development/C#/lab2/bin/Debug/net8.0/runtimes/win-x86/native/libHarfBuzzSharp.dll
+/Users/a1234/Documents/Development/C#/lab2/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/a1234/Documents/Development/C#/lab2/bin/Debug/net8.0/runtimes/linux-arm/native/libSkiaSharp.so
+/Users/a1234/Documents/Development/C#/lab2/bin/Debug/net8.0/runtimes/linux-arm64/native/libSkiaSharp.so
+/Users/a1234/Documents/Development/C#/lab2/bin/Debug/net8.0/runtimes/linux-musl-x64/native/libSkiaSharp.so
+/Users/a1234/Documents/Development/C#/lab2/bin/Debug/net8.0/runtimes/linux-x64/native/libSkiaSharp.so
+/Users/a1234/Documents/Development/C#/lab2/bin/Debug/net8.0/runtimes/osx/native/libSkiaSharp.dylib
+/Users/a1234/Documents/Development/C#/lab2/bin/Debug/net8.0/runtimes/win-arm64/native/libSkiaSharp.dll
+/Users/a1234/Documents/Development/C#/lab2/bin/Debug/net8.0/runtimes/win-x64/native/libSkiaSharp.dll
+/Users/a1234/Documents/Development/C#/lab2/bin/Debug/net8.0/runtimes/win-x86/native/libSkiaSharp.dll
+/Users/a1234/Documents/Development/C#/lab2/bin/Debug/net8.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/Users/a1234/Documents/Development/C#/lab2/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/Users/a1234/Documents/Development/C#/lab2/obj/Debug/net8.0/DataBindingExample.csproj.AssemblyReference.cache
+/Users/a1234/Documents/Development/C#/lab2/obj/Debug/net8.0/Avalonia/Resources.Inputs.cache
+/Users/a1234/Documents/Development/C#/lab2/obj/Debug/net8.0/Avalonia/resources
+/Users/a1234/Documents/Development/C#/lab2/obj/Debug/net8.0/DataBindingExample.GeneratedMSBuildEditorConfig.editorconfig
+/Users/a1234/Documents/Development/C#/lab2/obj/Debug/net8.0/DataBindingExample.AssemblyInfoInputs.cache
+/Users/a1234/Documents/Development/C#/lab2/obj/Debug/net8.0/DataBindingExample.AssemblyInfo.cs
+/Users/a1234/Documents/Development/C#/lab2/obj/Debug/net8.0/DataBindingExample.csproj.CoreCompileInputs.cache
+/Users/a1234/Documents/Development/C#/lab2/obj/Debug/net8.0/DataBindingExample.sourcelink.json
+/Users/a1234/Documents/Development/C#/lab2/obj/Debug/net8.0/Avalonia/references
+/Users/a1234/Documents/Development/C#/lab2/obj/Debug/net8.0/Avalonia/original.dll
+/Users/a1234/Documents/Development/C#/lab2/obj/Debug/net8.0/Avalonia/original.pdb
+/Users/a1234/Documents/Development/C#/lab2/obj/Debug/net8.0/Avalonia/original.ref.dll
+/Users/a1234/Documents/Development/C#/lab2/obj/Debug/net8.0/refint/DataBindingExample.dll
+/Users/a1234/Documents/Development/C#/lab2/obj/Debug/net8.0/DataBindingExample.dll
+/Users/a1234/Documents/Development/C#/lab2/obj/Debug/net8.0/DataBindingExample.pdb
+/Users/a1234/Documents/Development/C#/lab2/obj/Debug/net8.0/DataBindingExample.csproj.CopyComplete
+/Users/a1234/Documents/Development/C#/lab2/obj/Debug/net8.0/DataBindingExample.genruntimeconfig.cache
+/Users/a1234/Documents/Development/C#/lab2/obj/Debug/net8.0/ref/DataBindingExample.dll
+C:\Users\Kolti\Desktop\ucheba\vizualprogg\homework2\bin\Debug\net8.0\DataBindingExample.exe
+C:\Users\Kolti\Desktop\ucheba\vizualprogg\homework2\bin\Debug\net8.0\DataBindingExample.deps.json
+C:\Users\Kolti\Desktop\ucheba\vizualprogg\homework2\bin\Debug\net8.0\DataBindingExample.runtimeconfig.json
+C:\Users\Kolti\Desktop\ucheba\vizualprogg\homework2\bin\Debug\net8.0\DataBindingExample.dll
+C:\Users\Kolti\Desktop\ucheba\vizualprogg\homework2\bin\Debug\net8.0\DataBindingExample.pdb
+C:\Users\Kolti\Desktop\ucheba\vizualprogg\homework2\bin\Debug\net8.0\Avalonia.Base.dll
+C:\Users\Kolti\Desktop\ucheba\vizualprogg\homework2\bin\Debug\net8.0\Avalonia.Controls.dll
+C:\Users\Kolti\Desktop\ucheba\vizualprogg\homework2\bin\Debug\net8.0\Avalonia.DesignerSupport.dll
+C:\Users\Kolti\Desktop\ucheba\vizualprogg\homework2\bin\Debug\net8.0\Avalonia.Dialogs.dll
+C:\Users\Kolti\Desktop\ucheba\vizualprogg\homework2\bin\Debug\net8.0\Avalonia.Markup.Xaml.dll
+C:\Users\Kolti\Desktop\ucheba\vizualprogg\homework2\bin\Debug\net8.0\Avalonia.Markup.dll
+C:\Users\Kolti\Desktop\ucheba\vizualprogg\homework2\bin\Debug\net8.0\Avalonia.Metal.dll
+C:\Users\Kolti\Desktop\ucheba\vizualprogg\homework2\bin\Debug\net8.0\Avalonia.MicroCom.dll
+C:\Users\Kolti\Desktop\ucheba\vizualprogg\homework2\bin\Debug\net8.0\Avalonia.OpenGL.dll
+C:\Users\Kolti\Desktop\ucheba\vizualprogg\homework2\bin\Debug\net8.0\Avalonia.dll
+C:\Users\Kolti\Desktop\ucheba\vizualprogg\homework2\bin\Debug\net8.0\Avalonia.Controls.ColorPicker.dll
+C:\Users\Kolti\Desktop\ucheba\vizualprogg\homework2\bin\Debug\net8.0\Avalonia.Controls.DataGrid.dll
+C:\Users\Kolti\Desktop\ucheba\vizualprogg\homework2\bin\Debug\net8.0\Avalonia.Desktop.dll
+C:\Users\Kolti\Desktop\ucheba\vizualprogg\homework2\bin\Debug\net8.0\Avalonia.Diagnostics.dll
+C:\Users\Kolti\Desktop\ucheba\vizualprogg\homework2\bin\Debug\net8.0\Avalonia.Fonts.Inter.dll
+C:\Users\Kolti\Desktop\ucheba\vizualprogg\homework2\bin\Debug\net8.0\Avalonia.FreeDesktop.dll
+C:\Users\Kolti\Desktop\ucheba\vizualprogg\homework2\bin\Debug\net8.0\Avalonia.Native.dll
+C:\Users\Kolti\Desktop\ucheba\vizualprogg\homework2\bin\Debug\net8.0\Avalonia.Remote.Protocol.dll
+C:\Users\Kolti\Desktop\ucheba\vizualprogg\homework2\bin\Debug\net8.0\Avalonia.Skia.dll
+C:\Users\Kolti\Desktop\ucheba\vizualprogg\homework2\bin\Debug\net8.0\Avalonia.Themes.Fluent.dll
+C:\Users\Kolti\Desktop\ucheba\vizualprogg\homework2\bin\Debug\net8.0\Avalonia.Themes.Simple.dll
+C:\Users\Kolti\Desktop\ucheba\vizualprogg\homework2\bin\Debug\net8.0\Avalonia.Win32.dll
+C:\Users\Kolti\Desktop\ucheba\vizualprogg\homework2\bin\Debug\net8.0\Avalonia.X11.dll
+C:\Users\Kolti\Desktop\ucheba\vizualprogg\homework2\bin\Debug\net8.0\HarfBuzzSharp.dll
+C:\Users\Kolti\Desktop\ucheba\vizualprogg\homework2\bin\Debug\net8.0\MicroCom.Runtime.dll
+C:\Users\Kolti\Desktop\ucheba\vizualprogg\homework2\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\Kolti\Desktop\ucheba\vizualprogg\homework2\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Kolti\Desktop\ucheba\vizualprogg\homework2\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Kolti\Desktop\ucheba\vizualprogg\homework2\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Kolti\Desktop\ucheba\vizualprogg\homework2\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Kolti\Desktop\ucheba\vizualprogg\homework2\bin\Debug\net8.0\SkiaSharp.dll
+C:\Users\Kolti\Desktop\ucheba\vizualprogg\homework2\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Kolti\Desktop\ucheba\vizualprogg\homework2\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\Kolti\Desktop\ucheba\vizualprogg\homework2\bin\Debug\net8.0\Tmds.DBus.Protocol.dll
+C:\Users\Kolti\Desktop\ucheba\vizualprogg\homework2\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kolti\Desktop\ucheba\vizualprogg\homework2\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kolti\Desktop\ucheba\vizualprogg\homework2\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kolti\Desktop\ucheba\vizualprogg\homework2\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kolti\Desktop\ucheba\vizualprogg\homework2\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kolti\Desktop\ucheba\vizualprogg\homework2\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kolti\Desktop\ucheba\vizualprogg\homework2\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kolti\Desktop\ucheba\vizualprogg\homework2\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kolti\Desktop\ucheba\vizualprogg\homework2\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kolti\Desktop\ucheba\vizualprogg\homework2\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kolti\Desktop\ucheba\vizualprogg\homework2\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kolti\Desktop\ucheba\vizualprogg\homework2\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kolti\Desktop\ucheba\vizualprogg\homework2\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kolti\Desktop\ucheba\vizualprogg\homework2\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kolti\Desktop\ucheba\vizualprogg\homework2\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kolti\Desktop\ucheba\vizualprogg\homework2\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kolti\Desktop\ucheba\vizualprogg\homework2\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kolti\Desktop\ucheba\vizualprogg\homework2\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kolti\Desktop\ucheba\vizualprogg\homework2\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kolti\Desktop\ucheba\vizualprogg\homework2\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kolti\Desktop\ucheba\vizualprogg\homework2\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kolti\Desktop\ucheba\vizualprogg\homework2\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kolti\Desktop\ucheba\vizualprogg\homework2\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kolti\Desktop\ucheba\vizualprogg\homework2\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kolti\Desktop\ucheba\vizualprogg\homework2\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kolti\Desktop\ucheba\vizualprogg\homework2\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kolti\Desktop\ucheba\vizualprogg\homework2\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Kolti\Desktop\ucheba\vizualprogg\homework2\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Kolti\Desktop\ucheba\vizualprogg\homework2\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Kolti\Desktop\ucheba\vizualprogg\homework2\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Kolti\Desktop\ucheba\vizualprogg\homework2\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Kolti\Desktop\ucheba\vizualprogg\homework2\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Kolti\Desktop\ucheba\vizualprogg\homework2\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Kolti\Desktop\ucheba\vizualprogg\homework2\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Kolti\Desktop\ucheba\vizualprogg\homework2\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Kolti\Desktop\ucheba\vizualprogg\homework2\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Kolti\Desktop\ucheba\vizualprogg\homework2\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Kolti\Desktop\ucheba\vizualprogg\homework2\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Kolti\Desktop\ucheba\vizualprogg\homework2\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Kolti\Desktop\ucheba\vizualprogg\homework2\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Kolti\Desktop\ucheba\vizualprogg\homework2\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Kolti\Desktop\ucheba\vizualprogg\homework2\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Kolti\Desktop\ucheba\vizualprogg\homework2\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Kolti\Desktop\ucheba\vizualprogg\homework2\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Kolti\Desktop\ucheba\vizualprogg\homework2\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Kolti\Desktop\ucheba\vizualprogg\homework2\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Kolti\Desktop\ucheba\vizualprogg\homework2\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Kolti\Desktop\ucheba\vizualprogg\homework2\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Kolti\Desktop\ucheba\vizualprogg\homework2\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Kolti\Desktop\ucheba\vizualprogg\homework2\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Kolti\Desktop\ucheba\vizualprogg\homework2\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Kolti\Desktop\ucheba\vizualprogg\homework2\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Kolti\Desktop\ucheba\vizualprogg\homework2\bin\Debug\net8.0\runtimes\win-arm64\native\av_libglesv2.dll
+C:\Users\Kolti\Desktop\ucheba\vizualprogg\homework2\bin\Debug\net8.0\runtimes\win-x64\native\av_libglesv2.dll
+C:\Users\Kolti\Desktop\ucheba\vizualprogg\homework2\bin\Debug\net8.0\runtimes\win-x86\native\av_libglesv2.dll
+C:\Users\Kolti\Desktop\ucheba\vizualprogg\homework2\bin\Debug\net8.0\runtimes\osx\native\libAvaloniaNative.dylib
+C:\Users\Kolti\Desktop\ucheba\vizualprogg\homework2\bin\Debug\net8.0\runtimes\linux-arm\native\libHarfBuzzSharp.so
+C:\Users\Kolti\Desktop\ucheba\vizualprogg\homework2\bin\Debug\net8.0\runtimes\linux-arm64\native\libHarfBuzzSharp.so
+C:\Users\Kolti\Desktop\ucheba\vizualprogg\homework2\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libHarfBuzzSharp.so
+C:\Users\Kolti\Desktop\ucheba\vizualprogg\homework2\bin\Debug\net8.0\runtimes\linux-x64\native\libHarfBuzzSharp.so
+C:\Users\Kolti\Desktop\ucheba\vizualprogg\homework2\bin\Debug\net8.0\runtimes\osx\native\libHarfBuzzSharp.dylib
+C:\Users\Kolti\Desktop\ucheba\vizualprogg\homework2\bin\Debug\net8.0\runtimes\win-arm64\native\libHarfBuzzSharp.dll
+C:\Users\Kolti\Desktop\ucheba\vizualprogg\homework2\bin\Debug\net8.0\runtimes\win-x64\native\libHarfBuzzSharp.dll
+C:\Users\Kolti\Desktop\ucheba\vizualprogg\homework2\bin\Debug\net8.0\runtimes\win-x86\native\libHarfBuzzSharp.dll
+C:\Users\Kolti\Desktop\ucheba\vizualprogg\homework2\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Kolti\Desktop\ucheba\vizualprogg\homework2\bin\Debug\net8.0\runtimes\linux-arm\native\libSkiaSharp.so
+C:\Users\Kolti\Desktop\ucheba\vizualprogg\homework2\bin\Debug\net8.0\runtimes\linux-arm64\native\libSkiaSharp.so
+C:\Users\Kolti\Desktop\ucheba\vizualprogg\homework2\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libSkiaSharp.so
+C:\Users\Kolti\Desktop\ucheba\vizualprogg\homework2\bin\Debug\net8.0\runtimes\linux-x64\native\libSkiaSharp.so
+C:\Users\Kolti\Desktop\ucheba\vizualprogg\homework2\bin\Debug\net8.0\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\Kolti\Desktop\ucheba\vizualprogg\homework2\bin\Debug\net8.0\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\Kolti\Desktop\ucheba\vizualprogg\homework2\bin\Debug\net8.0\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\Kolti\Desktop\ucheba\vizualprogg\homework2\bin\Debug\net8.0\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\Kolti\Desktop\ucheba\vizualprogg\homework2\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Kolti\Desktop\ucheba\vizualprogg\homework2\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Kolti\Desktop\ucheba\vizualprogg\homework2\obj\Debug\net8.0\DataBindingExample.csproj.AssemblyReference.cache
+C:\Users\Kolti\Desktop\ucheba\vizualprogg\homework2\obj\Debug\net8.0\Avalonia\Resources.Inputs.cache
+C:\Users\Kolti\Desktop\ucheba\vizualprogg\homework2\obj\Debug\net8.0\Avalonia\resources
+C:\Users\Kolti\Desktop\ucheba\vizualprogg\homework2\obj\Debug\net8.0\DataBindingExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kolti\Desktop\ucheba\vizualprogg\homework2\obj\Debug\net8.0\DataBindingExample.AssemblyInfoInputs.cache
+C:\Users\Kolti\Desktop\ucheba\vizualprogg\homework2\obj\Debug\net8.0\DataBindingExample.AssemblyInfo.cs
+C:\Users\Kolti\Desktop\ucheba\vizualprogg\homework2\obj\Debug\net8.0\DataBindingExample.csproj.CoreCompileInputs.cache
+C:\Users\Kolti\Desktop\ucheba\vizualprogg\homework2\obj\Debug\net8.0\DataBindingExample.sourcelink.json
+C:\Users\Kolti\Desktop\ucheba\vizualprogg\homework2\obj\Debug\net8.0\Avalonia\references
+C:\Users\Kolti\Desktop\ucheba\vizualprogg\homework2\obj\Debug\net8.0\Avalonia\original.dll
+C:\Users\Kolti\Desktop\ucheba\vizualprogg\homework2\obj\Debug\net8.0\Avalonia\original.pdb
+C:\Users\Kolti\Desktop\ucheba\vizualprogg\homework2\obj\Debug\net8.0\Avalonia\original.ref.dll
+C:\Users\Kolti\Desktop\ucheba\vizualprogg\homework2\obj\Debug\net8.0\refint\DataBindingExample.dll
+C:\Users\Kolti\Desktop\ucheba\vizualprogg\homework2\obj\Debug\net8.0\DataBindingExample.dll
+C:\Users\Kolti\Desktop\ucheba\vizualprogg\homework2\obj\Debug\net8.0\DataBindingExample.pdb
+C:\Users\Kolti\Desktop\ucheba\vizualprogg\homework2\obj\Debug\net8.0\DataBindingExample.csproj.CopyComplete
+C:\Users\Kolti\Desktop\ucheba\vizualprogg\homework2\obj\Debug\net8.0\DataBindingExample.genruntimeconfig.cache
+C:\Users\Kolti\Desktop\ucheba\vizualprogg\homework2\obj\Debug\net8.0\ref\DataBindingExample.dll

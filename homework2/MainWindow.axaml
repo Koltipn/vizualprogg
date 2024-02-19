@@ -1,0 +1,90 @@
+<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:dc="clr-namespace:Lab_2"
+        mc:Ignorable="d" Width="600" Height="400"
+        MinWidth="300"
+        MinHeight="300"
+        x:Class="Lab_2.MainWindow"
+        x:DataType="dc:DataContextMainWindow"
+        Title="Lab_2">
+
+    <Design.DataContext>
+        <dc:DataContextMainWindow/>
+    </Design.DataContext>
+
+    <!-- <StackPanel>
+        <TextBlock Text="{Binding Text}"/>
+        <Button Content="Click Me" Command="{Binding ExecuteCommand}"
+                CommandParameter="Yellow"/>
+<Rectangle Fill="{Binding Text}" Height="100" Width="100" />    
+             </StackPanel> -->
+
+             <Grid>
+    <Grid.ColumnDefinitions>
+        <ColumnDefinition Width="1*"/>
+        <ColumnDefinition Width="0.1"/>
+        <ColumnDefinition Width="2*"/>
+    </Grid.ColumnDefinitions>
+
+    <StackPanel Grid.Column="0" Orientation="Vertical">
+    <Button Content="Khaki" Background="Khaki" Foreground="Black" BorderBrush="Black" HorizontalAlignment="Stretch" HorizontalContentAlignment="Center" VerticalAlignment="Center" Opacity="1"
+            Command="{Binding ExecuteCommand}" CommandParameter="Khaki"         
+ />
+                
+    <Button Content="Red" Background="Red" Foreground="Black" BorderBrush="Black" HorizontalAlignment="Stretch" HorizontalContentAlignment="Center" VerticalAlignment="Center"
+            Command="{Binding ExecuteCommand}" CommandParameter="Red" />
+        
+        
+    
+    <Button Content="MediumVioletRed" Background="MediumVioletRed" Foreground="Black" BorderBrush="Black" HorizontalAlignment="Stretch" HorizontalContentAlignment="Center" VerticalAlignment="Center"
+            Command="{Binding ExecuteCommand}" CommandParameter="MediumVioletRed" />
+        
+        
+    
+    <Button Content="Bisque" Background="Bisque" Foreground="Black" BorderBrush="Black" HorizontalAlignment="Stretch" HorizontalContentAlignment="Center" VerticalAlignment="Center"
+            Command="{Binding ExecuteCommand}" CommandParameter="Bisque" />
+        
+        
+    
+    <Button Content="LemonChiffon" Background="LemonChiffon" Foreground="Black" BorderBrush="Black" HorizontalAlignment="Stretch" HorizontalContentAlignment="Center" VerticalAlignment="Center"
+            Command="{Binding ExecuteCommand}" CommandParameter="LemonChiffon" />
+        
+        
+    
+    <Button Content="PowderBlue" Background="PowderBlue" Foreground="Black" BorderBrush="Black" HorizontalAlignment="Stretch" HorizontalContentAlignment="Center" VerticalAlignment="Center"
+            Command="{Binding ExecuteCommand}" CommandParameter="PowderBlue"/>
+        
+        
+    
+    <Button Content="MintCream" Background="MintCream" Foreground="Black" BorderBrush="Black" HorizontalAlignment="Stretch" HorizontalContentAlignment="Center" VerticalAlignment="Center"
+            Command="{Binding ExecuteCommand}" CommandParameter="MintCream"/>
+        
+        
+    
+    <Button Content="Maroon" Background="Maroon" Foreground="Black" BorderBrush="Black" HorizontalAlignment="Stretch" HorizontalContentAlignment="Center" VerticalAlignment="Center"
+            Command="{Binding ExecuteCommand}" CommandParameter="Maroon"/>
+        
+        
+    
+    <Button Content="RosyBrown" Background="RosyBrown" Foreground="Black" BorderBrush="Black" HorizontalAlignment="Stretch" HorizontalContentAlignment="Center" VerticalAlignment="Center"
+            Command="{Binding ExecuteCommand}" CommandParameter="RosyBrown"/>
+        
+        
+    
+    <Button Content="LightPink" Background="LightPink" Foreground="Black" BorderBrush="Black" HorizontalAlignment="Stretch" HorizontalContentAlignment="Center" VerticalAlignment="Center"
+            Command="{Binding ExecuteCommand}" CommandParameter="LightPink"/>
+        
+        
+    
+</StackPanel>
+
+
+
+    <GridSplitter Grid.Column="1" Width="5" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Background="Black"/>
+
+    <Rectangle  Grid.Column="2" Fill="{Binding Text}"/>
+</Grid>
+
+</Window>
