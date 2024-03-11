@@ -23,7 +23,7 @@
                             <ColumnDefinition Width="Auto"/>
                         </Grid.ColumnDefinitions>
                         <!-- Изображение папки слева -->
-                        <Image Grid.Column="0" Source="C:/Users/Kolti/Desktop/dz4/folder.jpg" Width="32" Height="32" VerticalAlignment="Center"/>
+                        <Image Grid.Column="0" Source="C:/Users/Kolti/Desktop/ucheba/vizualprogg/homework4/folder.jpg" Width="32" Height="32" VerticalAlignment="Center"/>
                         <!-- Название директории по центру -->
                         <TextBlock Grid.Column="1" Text="{Binding}" VerticalAlignment="Center"/>
                         <!-- Кнопка справа -->
@@ -45,7 +45,7 @@
                             <ColumnDefinition Width="Auto"/>
                         </Grid.ColumnDefinitions>
                         <!-- Изображение файла слева -->
-                        <Image Grid.Column="0" Source="C:/Users/Kolti/Desktop/dz4/file.png" Width="32" Height="32" VerticalAlignment="Center"/>
+                        <Image Grid.Column="0" Source="C:/Users/Kolti/Desktop/ucheba/vizualprogg/homework4/file.png" Width="32" Height="32" VerticalAlignment="Center"/>
                         <!-- Название файла по центру -->
                         <TextBlock Grid.Column="1" Text="{Binding}" VerticalAlignment="Center"/>
                     </Grid>

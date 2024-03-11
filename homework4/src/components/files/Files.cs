@@ -51,7 +51,7 @@ internal class Files : INotifyPropertyChanged
             new string[] { "" });
         DirName = new ObservableCollection<string>(
             new string[] { "" });
-        DirPath = "C:/Users/Kolti/Desktop/dz4/src/components/files";
+        DirPath = "C:/Users/Kolti/Desktop/ucheba/vizualprogg/homework4/src/components/files";
         string[] files = Directory.GetFiles(DirPath);
         string[] directories = Directory.GetDirectories(DirPath);
     

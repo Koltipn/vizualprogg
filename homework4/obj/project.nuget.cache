@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "COLhUO86+4IQGuEV6aIWdcJEM8QjRxR4ABF1Y/EmuLpyIciCU8Npvlq0iKVxKkLIk6dNK5TB5sE7RWg4dq+ATg==",
+  "dgSpecHash": "0bIaQKMOa92FhCAzITgSlGo1qWI6jQWGuNujfGPyL+Ezmo1+VmOa8Q0IQE/CB4SOUio/DzQXI5JDq5rwNhRhvg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Kolti\\Desktop\\dz4\\lab4.csproj",
+  "projectFilePath": "C:\\Users\\Kolti\\Desktop\\ucheba\\vizualprogg\\homework4\\lab4.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Kolti\\.nuget\\packages\\avalonia\\11.0.6\\avalonia.11.0.6.nupkg.sha512",
     "C:\\Users\\Kolti\\.nuget\\packages\\avalonia.angle.windows.natives\\2.1.0.2023020321\\avalonia.angle.windows.natives.2.1.0.2023020321.nupkg.sha512",

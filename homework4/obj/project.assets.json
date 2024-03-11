@@ -4493,11 +4493,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Kolti\\Desktop\\dz4\\lab4.csproj",
+      "projectUniqueName": "C:\\Users\\Kolti\\Desktop\\ucheba\\vizualprogg\\homework4\\lab4.csproj",
       "projectName": "lab4",
-      "projectPath": "C:\\Users\\Kolti\\Desktop\\dz4\\lab4.csproj",
+      "projectPath": "C:\\Users\\Kolti\\Desktop\\ucheba\\vizualprogg\\homework4\\lab4.csproj",
       "packagesPath": "C:\\Users\\Kolti\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Kolti\\Desktop\\dz4\\obj\\",
+      "outputPath": "C:\\Users\\Kolti\\Desktop\\ucheba\\vizualprogg\\homework4\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Kolti\\AppData\\Roaming\\NuGet\\NuGet.Config"

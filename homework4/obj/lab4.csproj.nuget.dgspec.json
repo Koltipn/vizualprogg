@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Kolti\\Desktop\\dz4\\lab4.csproj": {}
+    "C:\\Users\\Kolti\\Desktop\\ucheba\\vizualprogg\\homework4\\lab4.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Kolti\\Desktop\\dz4\\lab4.csproj": {
+    "C:\\Users\\Kolti\\Desktop\\ucheba\\vizualprogg\\homework4\\lab4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Kolti\\Desktop\\dz4\\lab4.csproj",
+        "projectUniqueName": "C:\\Users\\Kolti\\Desktop\\ucheba\\vizualprogg\\homework4\\lab4.csproj",
         "projectName": "lab4",
-        "projectPath": "C:\\Users\\Kolti\\Desktop\\dz4\\lab4.csproj",
+        "projectPath": "C:\\Users\\Kolti\\Desktop\\ucheba\\vizualprogg\\homework4\\lab4.csproj",
         "packagesPath": "C:\\Users\\Kolti\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Kolti\\Desktop\\dz4\\obj\\",
+        "outputPath": "C:\\Users\\Kolti\\Desktop\\ucheba\\vizualprogg\\homework4\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Kolti\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -75,7 +75,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "c:\\program files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\program files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
