@@ -1,0 +1,56 @@
+<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:lab4"
+        mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
+        x:Class="lab4.MainWindow"
+        Title="DynamicListBoxWithDynamicCollection"
+        x:DataType="local:Files">
+
+    <Window.DataContext>
+        <local:Files/>
+    </Window.DataContext>
+    <StackPanel>
+        <Button Content="..." Command="{Binding GoToParentDirectory}"/>
+        <ListBox ItemsSource="{Binding DirName}">
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="Auto"/>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="Auto"/>
+                        </Grid.ColumnDefinitions>
+                        <!-- Изображение папки слева -->
+                        <Image Grid.Column="0" Source="C:/Users/Kolti/Desktop/dz4/folder.jpg" Width="32" Height="32" VerticalAlignment="Center"/>
+                        <!-- Название директории по центру -->
+                        <TextBlock Grid.Column="1" Text="{Binding}" VerticalAlignment="Center"/>
+                        <!-- Кнопка справа -->
+                        <Button Grid.Column="2"
+                                Command="{Binding $parent[ListBox].((local:Files)DataContext).GoTo}"
+                                CommandParameter="{Binding}"
+                                Content="Go To"/>
+                    </Grid>
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+        </ListBox>
+        <ListBox ItemsSource="{Binding FilesCollection}">
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="Auto"/>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="Auto"/>
+                        </Grid.ColumnDefinitions>
+                        <!-- Изображение файла слева -->
+                        <Image Grid.Column="0" Source="C:/Users/Kolti/Desktop/dz4/file.png" Width="32" Height="32" VerticalAlignment="Center"/>
+                        <!-- Название файла по центру -->
+                        <TextBlock Grid.Column="1" Text="{Binding}" VerticalAlignment="Center"/>
+                    </Grid>
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+        </ListBox>
+    </StackPanel>
+</Window>

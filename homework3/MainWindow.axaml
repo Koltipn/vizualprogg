@@ -1,0 +1,110 @@
+<Window xmlns="https://github.com/avaloniaui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:dc="clr-namespace:Домашнее_задание__3"
+    mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="600"
+    x:Class="Домашнее_задание__3.MainWindow"
+    x:DataType="dc:Operations"
+    Title="Calculator"
+    Width="300" Height="550">
+    <Window.DataContext>
+        <dc:Operations/>
+    </Window.DataContext>
+    <Grid>
+
+        <!-- Кнопки -->
+        <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center" Orientation="Vertical">
+            <StackPanel HorizontalAlignment="Center" Orientation="Horizontal">
+                <Button Command="{Binding SetNumberInput}" CommandParameter="1" Content="1" Width="35" Height="35" Margin="5" Background="#DF8FFB"
+                    BorderBrush="White" BorderThickness="1" />
+                <Button Command="{Binding SetNumberInput}" CommandParameter="2" Content="2" Width="35" Height="35" Margin="5" Background="#DF8FFB"
+                    BorderBrush="White" BorderThickness="1" />
+                <Button Command="{Binding SetNumberInput}" CommandParameter="3" Content="3" Width="35" Height="35" Margin="5" Background="#DF8FFB"
+                    BorderBrush="White" BorderThickness="1" />
+            </StackPanel>
+            <StackPanel HorizontalAlignment="Center" Orientation="Horizontal">
+                <Button Command="{Binding SetNumberInput}" CommandParameter="4" Content="4" Width="35" Height="35" Margin="5" Background="#DF8FFB"
+                    BorderBrush="White" BorderThickness="1" />
+                <Button Command="{Binding SetNumberInput}" CommandParameter="5" Content="5" Width="35" Height="35" Margin="5" Background="#DF8FFB"
+                    BorderBrush="White" BorderThickness="1" />
+                <Button Command="{Binding SetNumberInput}" CommandParameter="6" Content="6" Width="35" Height="35" Margin="5" Background="#DF8FFB"
+                    BorderBrush="White" BorderThickness="1" />
+            </StackPanel>
+            <StackPanel HorizontalAlignment="Center" Orientation="Horizontal">
+                <Button Command="{Binding SetNumberInput}" CommandParameter="7" Content="7" Width="35" Height="35" Margin="5" Background="#DF8FFB"
+                    BorderBrush="White" BorderThickness="1" />
+                <Button Command="{Binding SetNumberInput}" CommandParameter="8" Content="8" Width="35" Height="35" Margin="5" Background="#DF8FFB"
+                    BorderBrush="White" BorderThickness="1" />
+                <Button Command="{Binding SetNumberInput}" CommandParameter="9" Content="9" Width="35" Height="35" Margin="5" Background="#DF8FFB"
+                    BorderBrush="White" BorderThickness="1" />
+            </StackPanel>
+            <StackPanel HorizontalAlignment="Center" Orientation="Horizontal">
+                <Button Command="{Binding SetNumberInput}" CommandParameter="0" Content="0" Width="35" Height="35" Margin="5" Background="#DF8FFB"
+                    BorderBrush="White" BorderThickness="1" />
+                <Button Command="{Binding CL}" Content="cl" Width="35" Height="35" Margin="5" Background="#DF8FFB"
+                    BorderBrush="White" BorderThickness="1" />
+                <Button Command="{Binding EqualsClick}" Content="=" Width="35" Height="35" Margin="5" Background="#DF8FFB"
+                    BorderBrush="White" BorderThickness="1" />
+            </StackPanel>
+            <!-- Кнопки математических операций -->
+            <StackPanel HorizontalAlignment="Right" VerticalAlignment="Top"
+                Orientation="Vertical" Margin="0,0,0,0">
+                <StackPanel HorizontalAlignment="Center" Orientation="Horizontal">
+                    <Button Command="{Binding SetOperator}" CommandParameter="+" Content="+" Width="48" Height="48" Margin="0,0,10,0"
+                        Background="#DF8FFB" BorderBrush="White" BorderThickness="1" />
+                    <Button Command="{Binding SetOperator}" CommandParameter="-" Content="-" Width="48" Height="48" Margin="0,0,10,0"
+                        Background="#DF8FFB" BorderBrush="White" BorderThickness="1" />
+                    <Button Command="{Binding SetOperator}" CommandParameter="*" Content="*" Width="48" Height="48" Margin="0,0,10,0"
+                        Background="#DF8FFB" BorderBrush="White" BorderThickness="1" />
+                </StackPanel>
+                <StackPanel HorizontalAlignment="Center" Orientation="Horizontal">
+                    <Button Command="{Binding SetOperator}" CommandParameter="/" Content="/" Width="48" Height="48" Margin="0,0,10,0"
+                        Background="#DF8FFB" BorderBrush="White" BorderThickness="1" />
+                    <Button Command="{Binding SetOperator}" CommandParameter="%" Content="mod" Width="48" Height="48" Margin="0,0,10,0"
+                        Background="#DF8FFB" BorderBrush="White" BorderThickness="1" />
+                    <Button Command="{Binding SetOperator}" CommandParameter="n!" Content="n!" Width="48" Height="48" Margin="0,0,10,0"
+                        Background="#DF8FFB" BorderBrush="White" BorderThickness="1" />
+                </StackPanel>
+                <StackPanel HorizontalAlignment="Center" Orientation="Horizontal">
+                    <Button Command="{Binding SetOperator}" CommandParameter="^" Content="x^y" Width="48" Height="48" Margin="0,0,10,0"
+                        Background="#DF8FFB" BorderBrush="White" BorderThickness="1" />
+                    <Button Command="{Binding SetOperator}" CommandParameter="lg" Content="lg" Width="48" Height="48" Margin="0,0,10,0"
+                        Background="#DF8FFB" BorderBrush="White" BorderThickness="1" />
+                    <Button Command="{Binding SetOperator}" CommandParameter="ln" Content="ln" Width="48" Height="48" Margin="0,0,10,0"
+                        Background="#DF8FFB" BorderBrush="White" BorderThickness="1" />
+                </StackPanel>
+                <StackPanel HorizontalAlignment="Center" Orientation="Horizontal">
+                    <Button Command="{Binding SetOperator}" CommandParameter="sin" Content="sin" Width="48" Height="48" Margin="0,0,10,0"
+                        Background="#DF8FFB" BorderBrush="White" BorderThickness="1" />
+                    <Button Command="{Binding SetOperator}" CommandParameter="cos" Content="cos" Width="48" Height="48" Margin="0,0,10,0"
+                        Background="#DF8FFB" BorderBrush="White" BorderThickness="1" />
+                    <Button Command="{Binding SetOperator}" CommandParameter="tan" Content="tan" Width="48" Height="48" Margin="0,0,10,0"
+                        Background="#DF8FFB" BorderBrush="White" BorderThickness="1" />
+                </StackPanel>
+                <StackPanel HorizontalAlignment="Center" Orientation="Horizontal">
+                    <Button Command="{Binding SetOperator}" CommandParameter="floor" Content="floor" Width="48" Height="48" Margin="0,0,10,0"
+                        Background="#DF8FFB" BorderBrush="White" BorderThickness="1" />
+                    <Button Command="{Binding SetOperator}" CommandParameter="ceil" Content="ceil" Width="48" Height="48" Margin="0,0,10,0"
+                        Background="#DF8FFB" BorderBrush="White" BorderThickness="1" />
+                </StackPanel>
+            </StackPanel>
+            <StackPanel HorizontalAlignment="Center" VerticalAlignment="Top" Orientation="Vertical"
+                Margin="0,10,0,0">
+                <!-- Поле ввода -->
+                <TextBox Text="{Binding NumberInput}" Width="113" Height="35" Margin="10" Background="#DF8FFB"
+                    BorderBrush="White" BorderThickness="1" />
+
+                <!-- Поле вывода -->
+                <Border Width="113" Height="35" Margin="0" Background="#FFFFFF" BorderBrush="Black"
+                    BorderThickness="1">
+                    <TextBlock Text="{Binding Result}" Background="#808080" />
+                </Border>
+            </StackPanel>
+
+        </StackPanel>
+
+    </Grid>
+
+
+</Window>
